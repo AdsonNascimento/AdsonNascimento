@@ -7,8 +7,8 @@ Olá, sou estudante de tecnologia em Natal e tenho 20 ano, e estou me aperfeiço
 
 <div align="center">
   <a href="https://github.com/AdsonNascimento">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AdsonNascimento&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdsonNascimento&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img width="49%" height="200em" src="https://github-readme-stats.vercel.app/api?username=AdsonNascimento&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="49%" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdsonNascimento&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
   ##
