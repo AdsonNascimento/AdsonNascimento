@@ -1,0 +1,3 @@
+- 👋 óla, meu nome é Adson Nascimento
+- 👀 estou interessado em me desenvolver como front-end
+- 🌱 Estou aprendendo sobre PHP
