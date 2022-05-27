@@ -1,6 +1,6 @@
 # Adson Nascimento
 
-Olá, sou estudante de tecnologia em Natal e tenho 21 ano, e estou me aperfeiçoando para o mercado de trabalho e para a vida. Apesar de novo, já vivi coisas interessantes, como por exemplo, administrar uma empresa com 10 funcionários. Atualmente estou estudando para adentrar o mercado de trabalho da tecnologia como desenvolverdor front-end.
+Olá, sou estudante de tecnologia em Natal e tenho 21 ano, e estou me aperfeiçoando para o mercado de trabalho e para a vida. Apesar de novo, já vivi coisas interessantes, como por exemplo, administrar uma empresa com 10 funcionários. Atualmente estou estudando para adentrar o mercado de trabalho da tecnologia como desenvolverdor.
 
 📚 Estou estudando TypeScript 📚
 
