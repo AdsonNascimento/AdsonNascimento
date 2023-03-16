@@ -15,7 +15,7 @@ Olá, sou estudante de tecnologia em Natal e tenho 21 ano, e estou me aperfeiço
   
   <div>  
     
-  ### Linguagens
+  ### Tecnologias
 
   <img height="50em" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img height="50em" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
