@@ -1,6 +1,6 @@
 # Adson Nascimento
 
-Olá, sou estudante de tecnologia em Natal e tenho 21 ano, e estou me aperfeiçoando para o mercado de trabalho e para a vida. Apesar de novo, já vivi coisas interessantes, como por exemplo, administrar uma empresa com 10 funcionários. Atualmente estou estudando para adentrar o mercado de trabalho da tecnologia como desenvolverdor.
+Desenvolvedor Front-end com experiência em desenvolvimento de interfaces web, utilizando HTML5, CSS3, Bootstrap e JavaScript (JS). Especializado em SEO, com conhecimento em WordPress e SASS. Proficiente na manutenção e criação de sites, com ênfase na otimização e usabilidade, aplicado no setor de marketing digital.
 
 📚 Estou estudando TypeScript 📚
 
